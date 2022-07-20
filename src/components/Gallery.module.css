@@ -1,0 +1,22 @@
+h2 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 6rem;
+  overflow: hidden;
+}
+
+.img-container {
+  width: 120rem;
+  height: max-content;
+  margin: 0 auto;
+  padding-left: 7rem;
+}
+
+.error-msg {
+  font-size: 5rem;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(192, 79, 79);
+  margin-right: 6 rem;
+}
